@@ -1,0 +1,14 @@
+[project]
+name = "step-viewr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cadquery>=2.7.0",
+    "casadi>=3.7.2",
+    "pyinstaller>=6.19.0",
+    "pyside6>=6.10.2",
+    "pyvista>=0.47.1",
+    "pyvistaqt>=0.11.3",
+]
